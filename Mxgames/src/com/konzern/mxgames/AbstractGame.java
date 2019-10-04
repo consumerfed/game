@@ -12,5 +12,5 @@ public abstract class AbstractGame {
 	 public void playGame(IGame game) throws IllegalAccessException {
 		  game.startGame();
 		 }
-
+	 public abstract void instruction();
 }
