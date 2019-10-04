@@ -24,7 +24,7 @@ public class Matrix<E> extends AbstractMatrix<E> {
 	private final int MAX_COLUMN;
 	private final int MAX_ROW;
 	private final int MAX_CAPACITY;
-	protected static final char EMPTY_DATA = '\0';
+	public static final char EMPTY_DATA = '\0';
 	public static boolean isEditable = false;
 
 	private E elementData[][];
