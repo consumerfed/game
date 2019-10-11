@@ -16,6 +16,7 @@ package com.konzern.mxgames;
  */
 public class Dimensions {
 	
+	@SuppressWarnings("unused")
 	private static final long serialVersionUID = 8683452581122892188L;
 
 	private int row = 0;

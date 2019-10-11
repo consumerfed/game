@@ -11,6 +11,7 @@ package com.konzern.mxgames;
  *
  */
 public abstract class AbstractMatrix<E> {
+	@SuppressWarnings("unused")
 	private static final long serialVersionUID = 8683452581122892183L;
 
 }

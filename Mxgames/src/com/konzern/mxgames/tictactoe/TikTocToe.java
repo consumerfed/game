@@ -23,6 +23,7 @@ import com.konzern.mxgames.Matrix;
  */
 public class TikTocToe implements IGame {
 
+	@SuppressWarnings("unused")
 	private static final long serialVersionUID = 8683452581122892185L;
 
 	public static final int MATRIX_SIZE = 3;
@@ -33,6 +34,7 @@ public class TikTocToe implements IGame {
 	private ComputerMove computerMove = null;
 	private Matrix<Character> matrix = null;
 	public Character winner = null;
+	@SuppressWarnings("unused")
 	private static final String techIssue = "EXPERIENCING SOME TECHNICAL ISSUE";
 	public static boolean isTwoPlayer = false;
 
@@ -160,6 +162,7 @@ public class TikTocToe implements IGame {
 
 	}
 
+	@SuppressWarnings("resource")
 	private void getUserMove(int rowMoved, int colMoved, char currentMove) throws IllegalAccessException {
 		Scanner scanner = null;
 		scanner = new Scanner(System.in);

@@ -16,6 +16,7 @@ import com.konzern.mxgames.tictactoe.TikTocToe;
  */
 public class Main extends AbstractGame {
 
+	@SuppressWarnings("unused")
 	private static final long serialVersionUID = 8683452581122892182L;
 
 	/**
