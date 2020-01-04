@@ -1,11 +1,13 @@
 /*
  * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS HEADER.
- * Copyright (c) 1997-2017 Javabelazy and/or its affiliates. All rights reserved.
+ * Copyright (c) 1997-2020 Javabelazy and/or its affiliates.
+ *  All rights reserved.
  *
  */
 /**
  * Tic Tac Toe 
  * The main class
+ * Developed by Konzern Team
  * 
  */
 package com.konzern.mxgames.tictactoe;
