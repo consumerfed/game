@@ -1,6 +1,6 @@
 /*
  * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS HEADER.
- * Copyright (c) 1997-2017 Javabelazy and/or its affiliates. All rights reserved.
+ * Copyright (c) 1997-2021 Javabelazy and/or its affiliates. All rights reserved.
  *
  */
 /**
@@ -8,6 +8,8 @@
  * Developed by consumerfed kozhikode I T section
  * Version 1.0 
  * consfedkozhikode@gmail.com
+ * 
+ * Computer Moves against user move in tik toc toe.
  * 
  */
 package com.konzern.mxgames.tictactoe;
