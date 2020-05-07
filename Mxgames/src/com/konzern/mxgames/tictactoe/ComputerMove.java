@@ -25,6 +25,7 @@ import com.konzern.mxgames.Matrix;
 /**
  * @author konzernites
  * @since 1.0
+ * ComputerMove
  *
  */
 public class ComputerMove {
