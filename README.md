@@ -60,7 +60,7 @@ O | X | X |
 *** Congratulation ***
 COMPUTER is the winner
  ***** GAME OVER *****
- Developed by consumerfed I T section kozhikode
+ Developed by  I T section kozhikode
 O | O | O |
 O | X | X |
   | X | X |
