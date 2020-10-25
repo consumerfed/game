@@ -4,6 +4,10 @@ Game developed by MX Team @Konzernites
 Tik Tac Toe : 
 A Computer game developed where a user can play with computer. For each users move the computer will play a move, just as to oppose user from winning.
 
+Download Tiktactoe.jar
+
+Run java -jar tiktactoe.jar from command
+
 
 
  **** INSTRUCTIONS ****
