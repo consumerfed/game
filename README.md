@@ -1,5 +1,5 @@
 # game
-Game developed by MX Team @Konzernites
+Game developed by kv.nijesh@gmail.com
 
 Tik Tac Toe : 
 A Computer game developed where a user can play with computer. For each users move the computer will play a move, just as to oppose user from winning.
